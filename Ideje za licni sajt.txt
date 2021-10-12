@@ -1,0 +1,23 @@
+Ideje za licni sajt
+
+    1. Dark / Light Mode
+    2. Button (or whatever) hover effect - https://www.youtube.com/watch?v=OycqzlIsgSM
+    3. Infinite Scroll loop ?
+    4. Background box shadow effect & Neon osvetljenje - https://www.youtube.com/watch?v=RdXfKCwE2Uc
+    5. Background image transition into gif - https://www.youtube.com/watch?v=BgH_5QQ4LwM
+    6. Text Animations - https://www.youtube.com/watch?v=UugW7G7rsYQ
+    7. Aria optimizacija - https://www.youtube.com/watch?v=0hqhAIjE_8I
+    8. Tab / skip links - https://www.youtube.com/watch?time_continue=189&v=rD3db6-vmuo&feature=emb_logo
+    9. Instagram profil - kopirati studia
+    10. Dinamicno menjanje document title
+    11. Srediti Linkedin / Dodati po projektima - https://www.linkedin.com/in/lristic/?originalSubdomain=rs
+    12. SEO
+    13. Druga slika preko slike - https://circle.sx/
+    14. On scroll slider move - https://ronasit.com/about/ event section
+    15. Kreiranje introduction ili tako nekog video snimka (voice over?!?)
+    16. Slike shadow kao poster - https://pohlmann.photo/
+    17. Auto scroll ako se ne pomera duze od nekog vremena
+    18. Text auto typing - https://www.martin-faussabry.com/ (kockice iza?!?)
+    19. VIDEO https://filippoinzaghi.com/ https://twks.ch/en/
+    20. Image animation transition - https://soda.today/
+    21. Select text https://viamsterdam.com/
